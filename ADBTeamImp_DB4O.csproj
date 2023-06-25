@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Db4objects.Db4o">
+      <HintPath>D:\source\Work\CSDL_NC\db4o-8.0.276.16149-net40\db4o-8.0\bin\net-4.0\Db4objects.Db4o.dll</HintPath>
+    </Reference>
+    <Reference Include="Db4objects.Db4o.Linq">
+      <HintPath>D:\source\Work\CSDL_NC\db4o-8.0.276.16149-net40\db4o-8.0\bin\net-4.0\Db4objects.Db4o.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Db4objects.Db4o.NativeQueries">
+      <HintPath>D:\source\Work\CSDL_NC\db4o-8.0.276.16149-net40\db4o-8.0\bin\net-4.0\Db4objects.Db4o.NativeQueries.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

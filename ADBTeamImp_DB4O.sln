@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADBTeamImp_DB4O", "ADBTeamImp_DB4O.csproj", "{B321B565-EE4E-45C1-B99E-0025ED2AC53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B321B565-EE4E-45C1-B99E-0025ED2AC53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B321B565-EE4E-45C1-B99E-0025ED2AC53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B321B565-EE4E-45C1-B99E-0025ED2AC53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B321B565-EE4E-45C1-B99E-0025ED2AC53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B0C2071-3EB3-4706-9264-EE400784B630}
+	EndGlobalSection
+EndGlobal
