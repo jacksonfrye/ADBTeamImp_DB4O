@@ -1,7 +1,6 @@
 # Project NoSQL DB4O
 
 ## Project name: DB4O
-#
 
 ## Team: IMP
 
